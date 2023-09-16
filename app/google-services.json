@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956274600183",
+    "project_id": "crime-report-portal-app",
+    "storage_bucket": "crime-report-portal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956274600183:android:f111b62fedbf087ee38bf2",
+        "android_client_info": {
+          "package_name": "com.example.crimereportportalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956274600183-d0k2fh3gtomfq5fvs607gb4ifhc0rac0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoWUfirGQOZnxD77QXVx34BWbpIA_MMV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956274600183-d0k2fh3gtomfq5fvs607gb4ifhc0rac0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
